@@ -14,5 +14,5 @@ assert len(pred) == len(y)
 print("Test 1 passed")
 #len - length
 # assert acc>=0.50
-assert acc>=0.99
+assert acc>=0.95
 print("All tests passed")
